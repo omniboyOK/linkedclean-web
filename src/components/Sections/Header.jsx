@@ -103,12 +103,12 @@ const ImageWrapper = styled.div`
     justify-content: center;
   }
 `;
-const Img = styled.img`
+/* const Img = styled.img`
   @media (max-width: 560px) {
     width: 80%;
     height: auto;
   }
-`;
+`; */
 /* const QuoteWrapper = styled.div`
   position: absolute;
   left: 0;
