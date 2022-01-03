@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/linkedclean-web/static/css/main.da86a848.chunk.css",
+    "main.js": "/linkedclean-web/static/js/main.024f81dc.chunk.js",
+    "main.js.map": "/linkedclean-web/static/js/main.024f81dc.chunk.js.map",
+    "runtime-main.js": "/linkedclean-web/static/js/runtime-main.f2fafa5e.js",
+    "runtime-main.js.map": "/linkedclean-web/static/js/runtime-main.f2fafa5e.js.map",
+    "static/css/2.6d62d73d.chunk.css": "/linkedclean-web/static/css/2.6d62d73d.chunk.css",
+    "static/js/2.49e09c36.chunk.js": "/linkedclean-web/static/js/2.49e09c36.chunk.js",
+    "static/js/2.49e09c36.chunk.js.map": "/linkedclean-web/static/js/2.49e09c36.chunk.js.map",
+    "static/js/3.b09fed19.chunk.js": "/linkedclean-web/static/js/3.b09fed19.chunk.js",
+    "static/js/3.b09fed19.chunk.js.map": "/linkedclean-web/static/js/3.b09fed19.chunk.js.map",
+    "index.html": "/linkedclean-web/index.html",
+    "static/css/2.6d62d73d.chunk.css.map": "/linkedclean-web/static/css/2.6d62d73d.chunk.css.map",
+    "static/css/main.da86a848.chunk.css.map": "/linkedclean-web/static/css/main.da86a848.chunk.css.map",
+    "static/js/2.49e09c36.chunk.js.LICENSE.txt": "/linkedclean-web/static/js/2.49e09c36.chunk.js.LICENSE.txt",
+    "static/media/banner.e8742f7e.png": "/linkedclean-web/static/media/banner.e8742f7e.png",
+    "static/media/logo-lc.7b7cc974.svg": "/linkedclean-web/static/media/logo-lc.7b7cc974.svg",
+    "static/media/slick-theme.css": "/linkedclean-web/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f2fafa5e.js",
+    "static/css/2.6d62d73d.chunk.css",
+    "static/js/2.49e09c36.chunk.js",
+    "static/css/main.da86a848.chunk.css",
+    "static/js/main.024f81dc.chunk.js"
+  ]
+}
