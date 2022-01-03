@@ -3,7 +3,7 @@ import styled from "styled-components";
 // Components
 import FullButton from "../Buttons/FullButton";
 // Assets
-import HeaderImage from "../../assets/img/banner.png";
+import BannerSVG from "../../assets/svg/Banner";
 
 export default function Header() {
   const navigateToStore = () => {
@@ -22,18 +22,13 @@ export default function Header() {
             We keep your timeline clean, focus on what's important.
           </HeaderP>
           <BtnWrapper>
-            <FullButton title="Get Started" action={navigateToStore}/>
+            <FullButton title="Get Started" action={navigateToStore} />
           </BtnWrapper>
         </div>
       </LeftSide>
       <RightSide>
         <ImageWrapper>
-          <Img
-            className="radius8"
-            src={HeaderImage}
-            alt="office"
-            style={{ zIndex: 9 }}
-          />
+          <BannerSVG />
         </ImageWrapper>
         <GreyDiv className="lightBg"></GreyDiv>
       </RightSide>
